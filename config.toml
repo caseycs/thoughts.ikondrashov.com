@@ -1,0 +1,32 @@
+baseURL = "https://thoughts.ikondrashov.com"
+languageCode = "ru-ru"
+title = "Мысли и цитаты"
+theme = "nuo"
+
+[[menu.main]]
+  name = "Последние записи"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Что тут такое"
+  weight = 20
+  identifier = "about"
+  url = "/post/about/"
+
+[params]
+  author = "Kondrashov Ilia"
+  avatar = "/avatar.jpg"
+  seotitle = "Мысли и цитаты"
+  subtitle = "Размышления на свободную тему"
+  description = "Размышления о чем взбредет в голову"
+  paginate = 10
+  email = "caseycs@gmail.com"
+  github = "caseycs"
+  linkedin = "iliakondrashov"
+  facebook = "caseycs4"
+  instagram = "caseycs7"
+  youtube = "CaseyCS7"
+  copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+

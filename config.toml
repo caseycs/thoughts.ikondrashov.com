@@ -2,6 +2,7 @@ baseURL = "https://thoughts.ikondrashov.com"
 languageCode = "ru-ru"
 title = "Мысли и цитаты"
 theme = "nuo"
+publishDir = "docs"
 
 [[menu.main]]
   name = "Последние записи"

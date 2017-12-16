@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Мысли и цитаты</title>
+    <link>https://thoughts.ikondrashov.com/post/</link>
+    <description>Recent content in Posts on Мысли и цитаты</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 16 Dec 2017 13:50:09 +0100</lastBuildDate>
+    
+	<atom:link href="https://thoughts.ikondrashov.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Что тут такое?</title>
+      <link>https://thoughts.ikondrashov.com/post/about/</link>
+      <pubDate>Sat, 16 Dec 2017 13:50:09 +0100</pubDate>
+      
+      <guid>https://thoughts.ikondrashov.com/post/about/</guid>
+      <description>Часто в голову приходит мысли, которыми очень хочется поделиться. Фейсбук - не всегда подходит по формату, а с Twitter с точки зрения &amp;ldquo;писать&amp;rdquo; у меня не сложилось.
+Часто хочется процитировать и прокомментировать кого-то: текст, порой видео. Довольно много людей, за которыми я слежу, и чьи самый &amp;ldquo;убойные&amp;rdquo;, на мой взгляд, материалы очень сложно найти - не собирают они миллионы просмотров и тысячи лайков. А меня &amp;ldquo;торкает&amp;rdquo;, вот и хочу обратить на них внимание.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = "https://thoughts.ikondrashov.com"
+baseURL = "http://thoughts.ikondrashov.com"
 languageCode = "ru-ru"
 title = "Мысли и цитаты"
 theme = "nuo"

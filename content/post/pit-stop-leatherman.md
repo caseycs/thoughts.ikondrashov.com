@@ -1,7 +1,6 @@
 ---
 title: "Про дорогие вещи, насколько по-разному на них можно смотреть"
 date: 2017-12-16T13:57:09+01:00
-draft: true
 ---
 
 Краткая предыстория: [Евгению](https://www.youtube.com/user/masterpitstop) достался (купил/подарили/проспонсировали - не важно) [браслет-мультитул от Leatherman](https://www.instagram.com/p/BcozRNPhcy7/?taken-by=by_pit_stop).

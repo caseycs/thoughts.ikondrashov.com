@@ -3,6 +3,7 @@ languageCode = "ru-ru"
 title = "Мысли и цитаты"
 theme = "nuo"
 publishDir = "docs"
+googleAnalytics = "UA-111361270-1"
 
 [[menu.main]]
   name = "Последние записи"

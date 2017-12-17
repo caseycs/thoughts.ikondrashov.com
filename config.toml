@@ -18,8 +18,8 @@ googleAnalytics = "UA-111361270-1"
   url = "/post/about/"
 
 [params]
+  avatar = "/img/avatar.jpg"
   author = "Kondrashov Ilia"
-  avatar = "/avatar.jpg"
   seotitle = "Мысли и цитаты"
   subtitle = "Размышления на свободную тему"
   description = "Размышления о чем взбредет в голову"
